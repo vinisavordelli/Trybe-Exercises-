@@ -1,0 +1,5 @@
+What I've learned so far:
+
+- Unix 
+-Bash
+- Git
