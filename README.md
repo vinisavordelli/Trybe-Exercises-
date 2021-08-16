@@ -14,9 +14,11 @@ Compilation of Exercises ordered as follows: Module> Learning Blocks> lessons.
 
 All Exercises Completed and Commited Learned to configure our git & github and some commands like :
 
+```sh
 git init
 git commit -m "message"
 git add "filename or ."
+```
 
 Also learned how git and gitHub works, what branches are, etc.
 
@@ -24,7 +26,7 @@ Also learned how git and gitHub works, what branches are, etc.
 
 Learned some more commands like:
 
-
+```sh
 git clone "url"
 git clone "local repository"
 Git push 
@@ -32,6 +34,7 @@ git pull
 git fetch
 git branch "name of the branch"
 git checout -b "name of the branch"
+```
 
 
 Also learned about pull requests, merges, gitignore, README good practices, etc.
