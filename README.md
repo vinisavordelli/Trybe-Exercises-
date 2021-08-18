@@ -39,4 +39,18 @@ git checout -b "name of the branch"
 
 Also learned about pull requests, merges, gitignore, README good practices, etc.
 
-<!--- Note: today i switched to Oh my ZSH and I will be customizing it, this is not part of my class. I'm just finding out what works best for me, and thought it would be cool to mention ---!>
+Did some practice exercise with pulling requests and merging two branches into main. 
+
+ <!---> Note: today i switched to Oh my ZSH and I will be customizing it, this is not part of my class. I'm just finding out what works best for me, and thought it would be cool to mention <!--->
+
+
+#### [x] Lesson 3 - Internet : How does it work
+
+Learned about the history of the internet, what it actually is, how it works, what are the protocols, Dns, etc. 
+
+
+### Block 3 - HTML & CSS Introduction
+
+#### Lesson 1 - Page Structures 
+
+On course
