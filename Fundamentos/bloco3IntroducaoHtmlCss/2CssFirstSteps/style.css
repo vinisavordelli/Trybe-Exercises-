@@ -1,0 +1,27 @@
+h1{
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration:line-through;
+}
+ul{
+    background-color: red;
+    font-family: helvetica, Georgia, 'Times New Roman', serif;
+    line-height: 50px;
+    text-decoration:dotted;
+}
+
+.ulandp{
+    background-color: darkgray;
+}
+p{
+font-weight: 600;
+font-size: 3em;
+background-color: white;
+
+}
+body{
+    font-size: 15px;
+    background-color: gray;
+} 
