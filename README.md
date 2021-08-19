@@ -51,6 +51,8 @@ Learned about the history of the internet, what it actually is, how it works, wh
 
 ### Block 3 - HTML & CSS Introduction
 
-#### Lesson 1 - Page Structures 
+#### [x] Lesson 1 - Page Structures 
 
-On course
+Learned Basic HTML Tags, built our portfolio on Github Pages and also did a exercise which should be inside today's directory.
+
+So far so good. 
