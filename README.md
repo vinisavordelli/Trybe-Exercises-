@@ -56,3 +56,11 @@ Learned about the history of the internet, what it actually is, how it works, wh
 Learned Basic HTML Tags, built our portfolio on Github Pages and also did a exercise which should be inside today's directory.
 
 So far so good. 
+
+#### [x] Lesson 2 - CSS First Steps
+
+Made some styling changes to my previous exercise. 
+
+Did Some Basics on Css, like font formatting and color changing, didnt work with shadows, placement, etc. yet. 
+
+Will be updating my portfolio as well
