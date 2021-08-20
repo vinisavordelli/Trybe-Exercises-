@@ -64,3 +64,13 @@ Made some styling changes to my previous exercise.
 Did Some Basics on Css, like font formatting and color changing, didnt work with shadows, placement, etc. yet. 
 
 Will be updating my portfolio as well
+
+#### [x] Lesson 3 - Sessions and positioning
+
+learned about blocks, margin, padding, positioning, etc
+
+All Exercises completed
+
+1 - Add padding, border and margin to elements
+2 - Make Mario stomp Goomba and Bowser complain
+3 - Make several styling changes 

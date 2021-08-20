@@ -1,0 +1,63 @@
+a{
+    color: black;
+    font-style:normal;
+    text-decoration: none;
+    
+}
+li{
+    font-size: 20px;
+}
+li em{
+    font-weight: bold;
+}
+
+ol li:nth-child(even){
+    color: green;
+    background-color: yellow;
+
+}
+
+ol li:nth-child(odd){
+    text-transform: uppercase;
+    background-color: yellow;
+
+}
+:is(h1, h2, h3, h4, h5, h6){
+    color: red;
+}
+:is(h1, h2, h3, h4, h5, h6) em{
+    font-size: 40px;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+#linguagens li:nth-child(-n +3) {
+    color: blue;
+}
+#linguagens li:nth-child(2) {
+background-color: pink;
+}
+#linguagens li:nth-child(3) {
+  background-color: pink;
+}
+
+.allies ul li:nth-child(1) a{
+    color: orange;
+}
+
+.allies ul li:nth-child(2) a{
+    color: green;
+}
+
+.allies ul li:nth-child(3) a{
+    color: black;
+}
+
+.allies ul li:nth-child(4) a{
+    color: yellow;
+}
+
+.allies ul li:nth-child(5) a{
+    color: green;
+}
