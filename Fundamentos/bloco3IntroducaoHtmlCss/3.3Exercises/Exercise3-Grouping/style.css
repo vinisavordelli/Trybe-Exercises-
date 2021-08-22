@@ -1,0 +1,18 @@
+h1, p{
+    text-align: center;
+}
+
+li:hover{
+background-color: pink;
+
+}
+ul, ol{
+    list-style: none;
+}
+ul, ol, li{
+    text-align: center;
+}
+
+p{
+    font-size: 30px;
+}
