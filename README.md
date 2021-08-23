@@ -74,3 +74,14 @@ All Exercises completed
 1 - Add padding, border and margin to elements
 2 - Make Mario stomp Goomba and Bowser complain
 3 - Make several styling changes 
+
+#### [x] Lesson 4 - Semantics & Display
+
+Learned more about proper semantics & display styles.
+
+Completed two exercises:
+
+1 - Change the looks of a webpage making it look like an img that was given
+2 - Build a Webpage talking about the Mantis Shrimp with propper semantics
+
+Both are completed, second exercise didnt receive any styling
