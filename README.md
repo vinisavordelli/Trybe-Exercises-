@@ -41,7 +41,6 @@ Also learned about pull requests, merges, gitignore, README good practices, etc.
 
 Did some practice exercise with pulling requests and merging two branches into main. 
 
- <!---> Note: today i switched to Oh my ZSH and I will be customizing it, this is not part of my class. I'm just finding out what works best for me, and thought it would be cool to mention <!--->
 
 
 #### [x] Lesson 3 - Internet : How does it work
@@ -85,3 +84,11 @@ Completed two exercises:
 2 - Build a Webpage talking about the Mantis Shrimp with propper semantics
 
 Both are completed, second exercise didnt receive any styling
+
+### Block 4 - JavaScript Introduction
+
+#### [x] Lesson 1 - First Steps
+
+Learned about the history behind Javascript, primitive types, operators, if & else, switch & case & break, etc.
+
+Did 10 Exercises of the content, check it out!
