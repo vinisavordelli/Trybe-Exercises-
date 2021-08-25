@@ -1,6 +1,8 @@
 What I've learned so far:
 
 - Unix 
--Bash
+- Bash
 - Git
-- Javascrypt
+- Python
+- HTML
+- CSS
