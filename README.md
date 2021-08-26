@@ -92,3 +92,6 @@ Both are completed, second exercise didnt receive any styling
 Learned about the history behind Javascript, primitive types, operators, if & else, switch & case & break, etc.
 
 Did 10 Exercises of the content, check it out!
+
+#### [x] Lesson 2 - Arrays, loof for, for/of;
+Completed all exercises, and also and made a bubble sort using for.
