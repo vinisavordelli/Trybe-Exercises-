@@ -240,9 +240,9 @@ if(angulo1 < 0 || angulo2 < 0 || angulo3 < 0){
 
 //Exercicio 6
 
-let chessPiece = "cavalo";
+let chessPiece = "cAvalo";
 
-switch (chessPiece){
+switch (chessPiece.toLowerCase()){
     case "peao":
     console.log("EX6 Mova 1 à frente, 2 se for seu primeiro movimento; o movimento não pode ser completado se houver outra peça no caminho; você pode comer peças rivais  à um espaço na diagonal");
     break;
@@ -267,6 +267,7 @@ switch (chessPiece){
     console.log("EX6 move diagonalmente e ortogonalmente, porém apenas um espaço; obedece a regra de interposição de peças; não pode se mover para um espaço onde seu inimigo possa come-la em seu próximo turno; caso não haja movimentos disponíveis você perdeu o jogo. Checkmate!");
     break
 }
+// .toLowerCase was learned thanks to gomakething.com link: "https://gomakethings.com/converting-strings-to-uppercase-and-lowercase-with-vanilla-javascript/"
 
 
 //Exercicio 7
@@ -367,4 +368,6 @@ if(salarioBase  > 4664.68){
 let salarioLiquido = salarioBase -IR
 
 console.log("EX11 com um salario bruto de "+salarioBruto +"você terá o salário liquido de:"+salarioLiquido)
+
+//Have a nice day
 
