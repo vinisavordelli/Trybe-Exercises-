@@ -95,3 +95,25 @@ Did 10 Exercises of the content, check it out!
 
 #### [x] Lesson 2 - Arrays, loof for, for/of;
 Completed all exercises, and also and made a bubble sort using for.
+
+#### [x] Lesson 3 - Algorithims and Logic
+
+Made some exercises drawing patterns in javascript 
+
+```javascript
+
+let squareSize = 9;
+let numberOfRows = squareSize - 2 ;
+
+for(i = 0; i < numberOfRows; i++){
+    let row = '';
+    for(k = 0; k <= numberOfRows - (i+2); k++){
+        row+=' ';
+    }
+    for(j = 0; j <= (2 *i) ; j++){
+        
+        row+='*';
+}
+console.log(row);
+}
+```
