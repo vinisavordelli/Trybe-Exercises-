@@ -117,3 +117,26 @@ for(i = 0; i < numberOfRows; i++){
 console.log(row);
 }
 ```
+
+#### Lesson 4 - Objects and Functions
+
+Learned about objects functions and for in 
+
+All Exercises Completed
+
+### Block 5 Javascript DOM, Events & Web Storage
+
+#### Lesson 1 DOM & Selectors
+
+learned what DOM is and selectors like
+
+```javascript
+
+document.getElementById()
+document.getElementByClass()
+document.getElementByTagName()
+document.querySelector()
+document.querySelectorAll()
+```
+All Exercises completed
+
