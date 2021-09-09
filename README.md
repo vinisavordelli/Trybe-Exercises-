@@ -140,3 +140,21 @@ document.querySelectorAll()
 ```
 All Exercises completed
 
+#### Lesson 2 - Working with Elements;
+
+learned how to work the elements i learned to select las lessson;
+all exercises completed;
+
+#### Lesson 3 - Events
+
+learned how to work with elements, specially how to work with :
+
+```javascript 
+addEventListener()
+.event.target
+```
+all exercises completed;
+
+
+
+
