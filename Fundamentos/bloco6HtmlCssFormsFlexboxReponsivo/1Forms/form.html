@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form action="" method="GET" enctype="multipart/form-data">
+    <fieldset>
+        <label for="nome-completo"> Nome Completo:
+            <input type="text" id ="nome-completo"name="nome-completo" required placeholder="Digite seu nome completo" maxlength="40"></label><br>
+        <label for="email"> E=mail:
+                <input type="email" id ="email"name="email" placeholder="Digite seu e-mail" maxlength="50" required></label><br>
+        <label for="cpf"> CPF:
+                <input type="number" id ="cpf"name="cpf" placeholder="Digite seu CPF" maxlength="11" required></label><br>
+        <label for="endereço"> Endereço:
+            <input type="text" id ="endereço"name="endereço" placeholder="Digite seu endereço" maxlength="200" required></label><br>
+        <label for="cidade"> Cidade:
+            <input type="text" id ="cidade"name="cidade" placeholder="Digite sua cidade" maxlength="28" required></label><br>
+        <label for="Estado">Estado:
+            <select name="estado" id="estado" required>
+                <option value="PR"> Parana</option>
+                <option value="SC">Santa Catarina</option>
+                <option value="ES">Espirito Santo</option>
+                <option value="RJ">Rio de Janeiro</option>
+                <option value="MG">Minas Gerais</option>
+                <option value="SP" selected>São Paulo</option>
+                <option value="MS">Mato Grosso do Sul</option>
+                <option value="MT">Mato Grosso</option>
+                <option value="GO">Goias</option>
+                <option value="DF">Distrito Federal</option>
+                <option value="BA">Bahia</option>
+                <option value="CE">Ceará</option>
+                <option value="PB">Paraíba</option>
+                <option value="SE">Sergipe</option>
+                <option value="AL">Alagoas</option>
+                <option value="PE">Pernambuco</option>
+                <option value="RN">Rio Grande do Norte</option>
+                <option value="PI">Piauí</option>
+                <option value="MA">Maranhão</option>
+                <option value="AM">Amazonas</option>
+                <option value="AP">Amapá</option>
+                <option value="AC">Acre</option>
+                <option value="PA">Pará</option>
+                <option value="TO">Tocantins</option>
+                <option value="RR">Roraima</option>
+                <option value="RO">Rondônia</option>
+                <option value="RS">Rio Grande do Sul</option>
+            </select>
+        </label><br>
+        <label for="casa">
+            <input type="radio" id="casa" name = "moradia" value="casa" required>Casa</label>
+        <label for="apartamento">
+            <input type="radio" id="apartamento" name = "moradia" value="apartamento" required>Apartamento</label>
+        </fieldset>
+        <fieldset>
+            <label for="curriculo"> Deixe aqui um resumo sobre você:
+                <textarea name="curriculo" id="curriculo" cols="30" rows="10" maxlength="1000" required></textarea></label><br>
+            <label for="cargo"> Qual era seu cargo mais recente?
+                <input type="text" name="cargo" id="cargo" maxlength="40" required></label><br>
+                <label for="descricao"> Fale um pouco sobre o escopo de suas atividades nessa posição <br>
+                    <input type="text" name="descricao" id="descricao" maxlength="500" required ></label><br>
+                    <label for="data"> Data de inicio das atividades nessa posição <br>
+                        <input type="number" name="Dia" id="data" id = "dia"required min="1" max="31">/</label>
+                        <input type="number" name="Mês" id="data" id = "mes"required min="1" max="12">/</label> 
+                        <input type="number" name="Ano" id="data" id = "ano"required min="0" max="9999"></label>            
+                </fieldset>
+                <button type="submit" id="submit-button">Enviar Currículo</button>
+                <button type="button" id ="clear-button">Limpar Tudo</button>
+    </form>
+    <script src="script.js"></script>
+</body>
+</html>

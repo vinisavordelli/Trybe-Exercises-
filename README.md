@@ -155,6 +155,19 @@ addEventListener()
 ```
 all exercises completed;
 
+### Block 6 - HTML & CSS - Forms, FlexBox and Responsive style.
 
+#### Lesson 1 - Forms
+
+Learned how to properly build a form and how to appropriately use some tags like :
+
+```HTML
+
+<label>
+<button></button>
+<input>
+<form></form>
+
+``` etc.
 
 
