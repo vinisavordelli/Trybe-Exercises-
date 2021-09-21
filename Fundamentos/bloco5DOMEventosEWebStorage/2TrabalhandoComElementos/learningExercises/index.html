@@ -1,0 +1,70 @@
+<main id="paiDoPai">
+    <section id="pai">
+      <section id="primeiroFilho"></section>
+      <section id="elementoOndeVoceEsta">
+        <section id="primeiroFilhoDoFilho"></section>
+        <section id="segundoEUltimoFilhoDoFilho"></section>
+      </section>
+      Atenção!
+      <section id="terceiroFilho"></section>
+      <section id="quartoEUltimoFilho"></section>
+    </section>
+  </main>
+  <script> 
+    /* 
+    Acesse o elemento elementoOndeVoceEsta .
+    Acesse pai a partir de elementoOndeVoceEsta e adicione uma color a ele.
+    Acesse o primeiroFilhoDoFilho e adicione um texto a ele. Você se lembra dos vídeos da aula anterior, como fazer isso?
+    Acesse o primeiroFilho a partir de pai .
+    Agora acesse o primeiroFilho a partir de elementoOndeVoceEsta .
+    Agora acesse o texto Atenção! a partir de elementoOndeVoceEsta .
+    Agora acesse o terceiroFilho a partir de elementoOndeVoceEsta .
+    Agora acesse o terceiroFilho a partir de pai . */
+
+    document.querySelector("#elementoOndeVoceEsta");
+    document.querySelector("#elementoOndeVoceEsta").parentNode.style.color = "red";
+    document.querySelector("#elementoOndeVoceEsta").firstElementChild.innerText = "batatinha";
+    document.querySelector("#elementoOndeVoceEsta").parentElement.firstElementChild;
+    document.querySelector("#elementoOndeVoceEsta").previousElementSibling;
+    document.querySelector("#elementoOndeVoceEsta").nextSibling;
+    document.querySelector("#elementoOndeVoceEsta").nextElementSibling;
+    document.querySelector("#elementoOndeVoceEsta").parentElement.children[2];
+
+  //   /*
+  //   Crie um irmão para elementoOndeVoceEsta .
+  //   Crie um filho para elementoOndeVoceEsta .
+  //   Crie um filho para primeiroFilhoDoFilho .
+  //   A partir desse filho criado, acesse terceiroFilho .
+  //   */
+   let ondeVoceEsta = document.querySelector("#elementoOndeVoceEsta");
+   let newSectionElement = document.createElement("section");
+   let newSectionElement2 = document.createElement("section");
+   let newSectionElement3 = document.createElement("section");
+   ondeVoceEsta.parentElement.append(newSectionElement);
+   ondeVoceEsta.append(newSectionElement2);
+   document.querySelector("#primeirofilhodofilho").append(newSectionElement3);
+   document.querySelector("#primeiroFilhoDoFilho").firstElementChild.parentElement.parentElement.parentElement.children[2];
+
+   let paiDoPaiChildren = document.querySelector("#paiDoPai").children;
+   let paiChildren = document.querySelector("#pai").children;
+   let pai = document.querySelector("#pai");
+   let primeiroFilhoDoFilho = document.querySelector("#primeiroFilhoDoFilho");
+   for (let i = 0; i < paiChildren.length; i++){
+     if(paiChildren[i] !== ondeVoceEsta){
+       pai.removeChild(paiChildren[i])      
+     }
+    }
+    for (i = 0; i < ondeVoceEsta.children.length; i++){
+      if(ondeVoceEsta.children[i] !== primeiroFilhoDoFilho){
+        ondeVoceEsta.removeChild(ondeVoceEsta.children[i]);
+      }
+     }
+     pai.removeChild(pai.lastChild);
+     pai.removeChild(pai.lastChild);
+     ondeVoceEsta.removeChild(ondeVoceEsta.lastChild);
+     
+  
+   
+
+   
+   </script>

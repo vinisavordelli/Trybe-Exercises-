@@ -140,3 +140,46 @@ document.querySelectorAll()
 ```
 All Exercises completed
 
+#### Lesson 2 - Working with Elements;
+
+learned how to work the elements i learned to select las lessson;
+all exercises completed;
+
+#### Lesson 3 - Events
+
+learned how to work with elements, specially how to work with :
+
+```javascript 
+addEventListener()
+.event.target
+```
+all exercises completed;
+
+### Block 6 - HTML & CSS - Forms, FlexBox and Responsive style.
+
+#### Lesson 1 - Forms
+
+Learned how to properly build a form and how to appropriately use some tags like :
+
+```HTML
+
+<label>
+<button></button>
+<input>
+<form></form>
+
+``` 
+etc.
+
+#### Lesson 2 - Libraries and Frameworks
+
+Learned what libraries and frameworks are and worked with some of them
+
+#### Lesson 3 & 4 - Flexbox
+
+Learned the display: flex css property and how to work with it.
+
+#### Lesson 5 Responsive CSS - Mobile First
+
+Had an introduction on how to work with reponsive css and built multiple pages with responsive styles.
+
