@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #5b6959ef;
+    background-color: rgba(129, 216, 219, 0.726);
+    text-shadow: black 1px 0 0.5px;
+}
+

@@ -168,6 +168,18 @@ Learned how to properly build a form and how to appropriately use some tags like
 <input>
 <form></form>
 
-``` etc.
+``` 
+etc.
 
+#### Lesson 2 - Libraries and Frameworks
+
+Learned what libraries and frameworks are and worked with some of them
+
+#### Lesson 3 & 4 - Flexbox
+
+Learned the display: flex css property and how to work with it.
+
+#### Lesson 5 Responsive CSS - Mobile First
+
+Had an introduction on how to work with reponsive css and built multiple pages with responsive styles.
 
