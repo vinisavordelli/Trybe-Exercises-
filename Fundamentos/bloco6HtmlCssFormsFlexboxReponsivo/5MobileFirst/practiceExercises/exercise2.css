@@ -1,0 +1,52 @@
+html {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  body{
+      background-color: brown;
+      font-size: 18px;
+      color: green;
+      text-shadow: 1px 1px 1px black;
+      margin: 50px;
+  }
+  .container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  header{
+      order: 1; 
+      width: 40%;
+  }
+  .aside-two{
+      order: 2;
+      justify-self: flex-end;
+      width: 40%;
+  }
+  .main-content{
+      order: 3;
+      width: 65%;
+  }
+
+  .aside-one{
+      order: 4;
+      width: 30%;
+      text-align: ;
+  }
+  footer{
+      order: 5;
+      align-self:flex-end
+  }
+  h2{
+      font-size: 30px;
+  }
+  header p{
+      font-size: 20px;
+      font-weight: bolder;
+  }
