@@ -183,3 +183,9 @@ Learned the display: flex css property and how to work with it.
 
 Had an introduction on how to work with reponsive css and built multiple pages with responsive styles.
 
+### Block 7 - Javascript ES6 Introduction & Unit Tests
+
+#### Lesson 1 - Let, const, arrow functions, template literals & ternary operator
+
+Learned a lot of things that simplifies the way we do things, the proper usage of variables, how to use arrow functions for simpler functions as well as ternary operators when whe can work with 2 parameters. Also learned a simpler way to concatenate strings and javascript elements and variables through template literals.
+
