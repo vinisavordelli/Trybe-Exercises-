@@ -205,5 +205,7 @@ Learned what they are and did some exercises using them.
 
 #### Lesson 2 - forEach, find, some, every, sort
 
-Learned to work some Higher Order Functions to make our code more concise and clear.
+Learned to work some Higher Order Functions to make our code more concise and clear. 
+
+An excellent exercise with multiple steps to better understand the following array functions: ```javascript forEach(), find(), some(), every() and sort()```
 
