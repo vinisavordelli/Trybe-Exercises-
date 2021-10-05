@@ -189,3 +189,21 @@ Had an introduction on how to work with reponsive css and built multiple pages w
 
 Learned a lot of things that simplifies the way we do things, the proper usage of variables, how to use arrow functions for simpler functions as well as ternary operators when whe can work with 2 parameters. Also learned a simpler way to concatenate strings and javascript elements and variables through template literals.
 
+#### Lesson 2 
+
+Learned to work with objects more objectively;
+
+#### Lesson 3 
+
+Started my first steps with jest and its unitary tests;
+
+### Block 8 Higher Order Functions
+
+#### Lesson 1 Intro;
+
+Learned what they are and did some exercises using them.
+
+#### Lesson 2 - forEach, find, some, every, sort
+
+Learned to work some Higher Order Functions to make our code more concise and clear.
+
