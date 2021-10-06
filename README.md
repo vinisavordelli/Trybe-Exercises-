@@ -209,3 +209,7 @@ Learned to work some Higher Order Functions to make our code more concise and cl
 
 An excellent exercise with multiple steps to better understand the following array functions: ```javascript forEach(), find(), some(), every() and sort()```
 
+#### Lesson 3 - Map & Filter
+
+Learned these two new functions and did some exercises using the same array of books that we used yesterday.
+
