@@ -118,15 +118,15 @@ console.log(row);
 }
 ```
 
-#### Lesson 4 - Objects and Functions
+#### [x] Lesson 4 - Objects and Functions
 
 Learned about objects functions and for in 
 
 All Exercises Completed
 
-### Block 5 Javascript DOM, Events & Web Storage
+### [x] Block 5 Javascript DOM, Events & Web Storage
 
-#### Lesson 1 DOM & Selectors
+#### [x] Lesson 1 DOM & Selectors
 
 learned what DOM is and selectors like
 
@@ -140,12 +140,12 @@ document.querySelectorAll()
 ```
 All Exercises completed
 
-#### Lesson 2 - Working with Elements;
+#### [x] Lesson 2 - Working with Elements;
 
 learned how to work the elements i learned to select las lessson;
 all exercises completed;
 
-#### Lesson 3 - Events
+#### [x] Lesson 3 - Events
 
 learned how to work with elements, specially how to work with :
 
@@ -155,9 +155,9 @@ addEventListener()
 ```
 all exercises completed;
 
-### Block 6 - HTML & CSS - Forms, FlexBox and Responsive style.
+### [x] Block 6 - HTML & CSS - Forms, FlexBox and Responsive style.
 
-#### Lesson 1 - Forms
+#### [x] Lesson 1 - Forms
 
 Learned how to properly build a form and how to appropriately use some tags like :
 
@@ -171,39 +171,39 @@ Learned how to properly build a form and how to appropriately use some tags like
 ``` 
 etc.
 
-#### Lesson 2 - Libraries and Frameworks
+#### [x] Lesson 2 - Libraries and Frameworks
 
 Learned what libraries and frameworks are and worked with some of them
 
-#### Lesson 3 & 4 - Flexbox
+#### [x] Lesson 3 & 4 - Flexbox
 
 Learned the display: flex css property and how to work with it.
 
-#### Lesson 5 Responsive CSS - Mobile First
+#### [x] Lesson 5 Responsive CSS - Mobile First
 
 Had an introduction on how to work with reponsive css and built multiple pages with responsive styles.
 
-### Block 7 - Javascript ES6 Introduction & Unit Tests
+### [x] Block 7 - Javascript ES6 Introduction & Unit Tests
 
-#### Lesson 1 - Let, const, arrow functions, template literals & ternary operator
+#### [x] Lesson 1 - Let, const, arrow functions, template literals & ternary operator
 
 Learned a lot of things that simplifies the way we do things, the proper usage of variables, how to use arrow functions for simpler functions as well as ternary operators when whe can work with 2 parameters. Also learned a simpler way to concatenate strings and javascript elements and variables through template literals.
 
-#### Lesson 2 
+#### [x] Lesson 2 
 
 Learned to work with objects more objectively;
 
-#### Lesson 3 
+#### [x] Lesson 3 
 
 Started my first steps with jest and its unitary tests;
 
 ### Block 8 Higher Order Functions
 
-#### Lesson 1 Intro;
+#### [x] Lesson 1 Intro;
 
 Learned what they are and did some exercises using them.
 
-#### Lesson 2 - forEach, find, some, every, sort
+#### [x] Lesson 2 - forEach, find, some, every, sort
 
 Learned to work some Higher Order Functions to make our code more concise and clear. 
 
@@ -216,7 +216,7 @@ array.every();
 array.sort();
 ```
 
-#### Lesson 3 - Map & Filter
+#### [x] Lesson 3 - Map & Filter
 
 Learned these two new functions:
 ```javascript
@@ -225,6 +225,6 @@ array.filter();
 ``` 
 Also did some exercises using the same array of books that we used yesterday.
 
-#### Lesson 4 - Reduce
+#### [x] Lesson 4 - Reduce
 
-Time to learn another High Order Function. Today it was ```array.reduce()```'s
+Time to learn another High Order Function. Today it was ```array.reduce()```'s turn.
