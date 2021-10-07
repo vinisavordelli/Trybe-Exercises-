@@ -225,3 +225,6 @@ array.filter();
 ``` 
 Also did some exercises using the same array of books that we used yesterday.
 
+#### Lesson 4 - Reduce
+
+Time to learn another High Order Function. Today it was ```array.reduce()```'s
