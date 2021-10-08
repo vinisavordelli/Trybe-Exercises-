@@ -228,3 +228,12 @@ Also did some exercises using the same array of books that we used yesterday.
 #### [x] Lesson 4 - Reduce
 
 Time to learn another High Order Function. Today it was ```array.reduce()```'s turn.
+
+#### [x] Lesson 5 - Spread operator, rest, destructuring & more
+
+Learned a lot of new stuff today, some minor, but yet important stuff. The list of stuff I learned was :
+    * Spread Operator;
+    * Rest Parameter;
+    * array, object and default destructuring;
+    * Default parameters;
+    * Object Property Shorthand;
