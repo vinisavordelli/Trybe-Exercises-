@@ -6,7 +6,7 @@ const submitButton = document.querySelector("#submit-button");
 submitButton.addEventListener("click",submitButtonFunction);
 
 const formElements = document.querySelectorAll("input");
-let textArea = document.querySelectorAll("textarea");
+let textArea = document.querySelector("textarea");
 
 function clearAll(){
     for(let i = 0; i <formElements.length; i++){
