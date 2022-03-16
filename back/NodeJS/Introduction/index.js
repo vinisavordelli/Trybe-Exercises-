@@ -4,6 +4,7 @@ const scripts = [
   { name: 'BMI Calculator', script: './BMI-calculator/bmi.js' },
   { name: 'Average speed calculator', script: './average-speed-calc/speed.js' },
   { name: 'Number Draw', script: './numberDraw/numberDraw.js' },
+  { name: 'Factorial Calculator', script: './factorial-calculator/fact-calc.js' },
 ];
 
 let enumeratedScripts = scripts
