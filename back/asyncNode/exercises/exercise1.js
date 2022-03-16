@@ -4,7 +4,7 @@
 // Caso o resultado seja menor que 50, rejeite a Promise com o motivo "Valor muito baixo"
 // Caso o resultado seja maior que 50, resolva a Promise com o valor obtido.
 
-export default function calcItUp(a, b, c) {
+function calcItUp(a, b, c) {
   return new Promise((resolve, reject) => {
     if (typeof a !== 'number' || typeof b !== 'number' || typeof c !== 'number')
       reject('Informe apenas números');

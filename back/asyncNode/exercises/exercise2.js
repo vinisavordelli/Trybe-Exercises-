@@ -3,8 +3,21 @@
 // Utilize then e catch para manipular a Promise retornada pela função:
 // Caso a Promise seja rejeitada, escreva na tela o motivo da rejeição.
 // Caso a Promise seja resolvida, escreva na tela o resultado do cálculo.
-import calcItUp from "./exercise1";
 
+function calcItUp(a, b, c) {
+  return new Promise((resolve, reject) => {
+    if (typeof a !== 'number' || typeof b !== 'number' || typeof c !== 'number')
+      reject('Informe apenas números');
+
+    const result = (a + b) * c;
+
+    if (result < 50) {
+      return reject('Valor muito baixo');
+    }
+
+    resolve(result);
+  });
+}
 function getRandomNumber() {
   return Math.floor(Math.random() * 100 + 1);
 }
@@ -15,3 +28,6 @@ calcItUp(...randomNumbers)
 .then(result => console.log(result))
 .catch(err => console.error(err.message))
 }
+
+
+callCalcItUp();
