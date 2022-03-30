@@ -31,7 +31,6 @@ const createAuthor = async (firstName, middleName, lastName) => {
 };
 
 module.exports = {
-  getAll,
   findById,
   createAuthor,
 };
